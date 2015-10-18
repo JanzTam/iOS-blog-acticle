@@ -35,7 +35,7 @@
 
 [如何创建一个翻书动画(Part 1)[译] // Vong](http://vonglo.me/2015/08/31/%E5%A6%82%E4%BD%95%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%E7%BF%BB%E4%B9%A6%E5%8A%A8%E7%94%BB%28Part1%29/)
 
-[如何实现炫酷的卡片式动画！ - CocoaChina 苹果开发中文站 - 最热的iPhone开发社区 最热的苹果开发社区 最热的iPad开发社区](http://www.cocoachina.com/ios/20151013/13700.html)
+[如何实现炫酷的卡片式动画！](http://www.cocoachina.com/ios/20151013/13700.html)
 
 
 [使用CALayer的Mask实现注水动画效果](http://www.cocoachina.com/ios/20151012/13637.html)
@@ -49,20 +49,20 @@
 
 [4、CoreText 实现图文混排 - Megan_zhou的个人空间 - 开源中国社区](http://my.oschina.net/megan/blog/269042)
 
-[5、iOS文字排版(CoreText)那些事儿 - CocoaChina 苹果开发中文站 - 最热的iPhone开发社区 最热的苹果开发社区 最热的iPad开发社区](http://www.cocoachina.com/industry/20140521/8504.html)
+[5、iOS文字排版(CoreText)那些事儿](http://www.cocoachina.com/industry/20140521/8504.html)
 
 [iOS富文本组件的实现—DTCoreText源码解析 渲染篇 « bang’s blog](http://blog.cnbang.net/tech/2729/)
 
 [iOS富文本组件的实现—DTCoreText源码解析 数据篇 « bang’s blog](http://blog.cnbang.net/tech/2630/)
 
 # block
-[Blocks编程要点【中文完整翻译版】 - Blocks Programming Topics | iOS开发 - CocoaChina 开发讨论区 最热的iOS开发论坛| 最热的Mac开发论坛 | 最热的iPhone开发论坛 | 最热的iPad开发论坛](http://www.cocoachina.com/bbs/read.php?tid=87593)
+[Blocks编程要点【中文完整翻译版】 - Blocks Programming Topics |](http://www.cocoachina.com/bbs/read.php?tid=87593)
  
 [Block 编程（翻译官方文档） - perfect_promise的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/perfect_promise/article/details/7757746)
 
 [block使用小结、在arc中使用block、如何防止循环引用(zz)_iphone砖家_新浪博客](http://blog.sina.com.cn/s/blog_8c87ba3b0101m599.html)
 
-[如何在Objective-C中实现链式语法？ - CocoaChina 苹果开发中文站 - 最热的iPhone开发社区 最热的苹果开发社区 最热的iPad开发社区](http://www.cocoachina.com/ios/20150104/10817.html)
+[如何在Objective-C中实现链式语法](http://www.cocoachina.com/ios/20150104/10817.html)
 
 # 版本控制
 
@@ -75,7 +75,7 @@
 [iOS9 新增 UIStackView 官方文档翻译 - Tieria - 博客园](http://www.cnblogs.com/tieria/p/4572882.html)
 [开源项目组织thoughtbot, inc.](https://github.com/thoughtbot)
 
-[iOS 9学习系列：Search API - CocoaChina 苹果开发中文站 - 最热的iPhone开发社区 最热的苹果开发社区 最热的iPad开发社区](http://www.cocoachina.com/ios/20150819/13116.html)
+[iOS 9学习系列：Search API](http://www.cocoachina.com/ios/20150819/13116.html)
 
 [实战iOS 9：开发者必须掌握的三种搜索API-CSDN.NET](http://www.csdn.net/article/2015-07-16/2825222-search-apis)
 
@@ -104,7 +104,7 @@
 [Xcode创建子工程以及工程依赖 | 赶驴记](http://www.ganlvji.com/xcode_subproject_project_dependency/)
 
 # 自动布局
-[如何使用masonry设计复合型cell-CocoaChina 苹果开发中文站 - 最热的iPhone开发社区 最热的苹果开发社区 最热的iPad开发社区](http://www.cocoachina.com/cms/wap.php?action=article&id=12105)
+[如何使用masonry设计复合型cell](http://www.cocoachina.com/cms/wap.php?action=article&id=12105)
 
 [自动布局10 Things You Need to Know About Cocoa Auto Layout – Ole Begemann](http://oleb.net/blog/2013/03/things-you-need-to-know-about-cocoa-autolayout/)
 
@@ -112,7 +112,7 @@
 
 [一篇厚道的Autolayout及VFL经验分享 - MoZiXiong的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/mozixiong/article/details/14165391)
 
-[AutoLayout 实现固定宽度动态高度的 ScrollView - CocoaChina 苹果开发中文站 - 最热的iPhone开发社区 最热的苹果开发社区 最热的iPad开发社区](http://www.cocoachina.com/ios/20150923/13451.html)
+[AutoLayout 实现固定宽度动态高度的 ScrollView](http://www.cocoachina.com/ios/20150923/13451.html)
 
 [有了Auto Layout,为什么你还是害怕写UITabelView的自适应布局? - IOS - 伯乐在线](http://ios.jobbole.com/82614/?url_type=39&object_type=webpage&pos=1)
 
@@ -157,7 +157,7 @@
 
 [Method Swizzling 和 AOP 实践](http://tech.glowing.com/cn/method-swizzling-aop/)
 #  视频
-[Twitter视频功能设计流程全程剖析 - CocoaChina 苹果开发中文站 - 最热的iPhone开发社区 最热的苹果开发社区 最热的iPad开发社区](http://www.cocoachina.com/design/20150710/12454.html)
+[Twitter视频功能设计流程全程剖析](http://www.cocoachina.com/design/20150710/12454.html)
 
 [HTTP Live Streaming直播（iOS直播）技术分析与实现 - haibindev - 博客园](http://www.cnblogs.com/haibindev/archive/2013/01/30/2880764.html)
 
@@ -192,7 +192,7 @@
 [【译】Swift 2.0 下面向协议的MVVM架构实践](http://www.cocoachina.com/swift/20150915/13419.html)
 
 # 输入框
-[完美主义：实现iOS输入框自动移动 - CocoaChina 苹果开发中文站 - 最热的iPhone开发社区 最热的苹果开发社区 最热的iPad开发社区](http://www.cocoachina.com/ios/20150922/13521.html)
+[完美主义：实现iOS输入框自动移动](http://www.cocoachina.com/ios/20150922/13521.html)
 
 # Json
 [自己动手使用 Swift 打造全功能 JSON 解析、生成库 - 岁寒](http://lvwenhan.com/ios/463.html)
@@ -221,7 +221,7 @@
 
 [程序员必知8大排序算法图文讲解_慕课问答](http://www.imooc.com/wenda/detail/262344)
 
-[Tesseract OCR（光学字符识别）教程 - CocoaChina 苹果开发中文站 - 最热的iPhone开发社区 最热的苹果开发社区 最热的iPad开发社区](http://www.cocoachina.com/ios/20150708/12463.html)
+[Tesseract OCR（光学字符识别）教程](http://www.cocoachina.com/ios/20150708/12463.html)
 
 [asctime 函数说明 - Standard C语言标准函数库速查 (Cheat Sheet)](http://ganquan.info/standard-c/function/asctime)
 
@@ -229,5 +229,5 @@
 
 [UIAppearance-Ray Wenderlich](http://www.raywenderlich.com/108766/uiappearance-tutorial)
 
-[抛砖引玉，QC+Origami 动效设计脱盲篇 - CocoaChina 苹果开发中文站 - 最热的iPhone开发社区 最热的苹果开发社区 最热的iPad开发社区](http://www.cocoachina.com/design/20150923/13547.html)
+[抛砖引玉，QC+Origami 动效设计脱盲篇](http://www.cocoachina.com/design/20150923/13547.html)
 
