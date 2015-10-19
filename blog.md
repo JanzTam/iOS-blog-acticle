@@ -4,8 +4,6 @@
 
 [Core Image 和视频](http://objccn.io/issue-23-2/)
 
-[iOS](http://iostree.sinaapp.com/)
-
 [iOS应用架构谈 view层的组织和调用方案 - Casa Taloyum](http://casatwy.com/iosying-yong-jia-gou-tan-viewceng-de-zu-zhi-he-diao-yong-fang-an.html)
 
 [objc中国](http://objccn.io/)
