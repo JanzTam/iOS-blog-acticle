@@ -148,3 +148,21 @@
 [App设计专题：动效设计，点睛之美_CocoaChina专题](http://www.cocoachina.com/special/appdesign/)
 
 [flexmonkey.blog[swift]](http://flexmonkey.blogspot.co.uk/2015/10/3d-retouch-experimental-retouching-app.html)
+
+[Limboy's HQ](http://limboy.me/ios/2013/12/27/reactivecocoa-2.html)
+
+[发光的我|BRIGHTTJ](http://www.brighttj.com/)
+
+[Thomas Hanning - A blog about iOS Development.](http://www.thomashanning.com/)
+
+[dev-blog/2015-07-27-keyboard-man.md at master · nixzhu/dev-blog](https://github.com/nixzhu/dev-blog/blob/master/2015-07-27-keyboard-man.md)
+
+[zen/Advanced Graphics and Animations for iOS Apps.md at master · 100mango/zen](https://github.com/100mango/zen/blob/master/WWDC%E5%BF%83%E5%BE%97%EF%BC%9AAdvanced%20Graphics%20and%20Animations%20for%20iOS%20Apps/Advanced%20Graphics%20and%20Animations%20for%20iOS%20Apps.md)
+
+[Just for fun – Morisunshine's Blog](http://morisunshine.com/)
+
+[技术哥-编程是一种思想,代码是一种人生](http://suenblog.duapp.com/)
+
+[watchOS 2 | 破船之家](http://beyondvincent.com/2015/10/16/2015-10-16-watchkit-for-watchos-2/)
+
+[Github repos (iOS)](http://github.ibireme.com/github/list/ios/#)
