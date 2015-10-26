@@ -51,6 +51,7 @@
 
 [如何轻松实现iOS9多任务管理器效果(iCarousel高级教程) | 里脊串的开发随笔](http://adad184.com/2015/08/01/advanced-icarousel-tutorial-copycat-of-ios9-task-tray/)
 
+[UIDynamics, UIKit or OpenGL? 3 Types of iOS Animations For the Star Wars](https://yalantis.com/blog/uidynamics-uikit-or-opengl-3-types-of-ios-animations-for-the-star-wars/)
 # 图文混排
 [1、通过RTLabel、RCLabel、FTCoreText及webView结合SDWebImage等4种方式实现左滑或下拉中cell中图文混排使用场景方案 - Software Architect - 博客频道 - CSDN.NET](http://blog.csdn.net/lgm252008/article/details/39251399)
 
@@ -146,6 +147,8 @@
 [iOS自动布局高级用法及纯手码约束写法 - 董铂然 - 博客园](http://www.cnblogs.com/dsxniubility/p/4266581.html)
 
 [【投稿】寒哥细谈之AutoLayout全解](http://www.cocoachina.com/ios/20151021/13825.html)
+
+[使用Autolayout实现UITableView的Cell动态布局和高度动态改变 - coding with objc & swift](http://codingobjc.com/blog/2014/10/15/shi-yong-autolayoutshi-xian-uitableviewde-celldong-tai-bu-ju-he-ke-bian-xing-gao/)
 # 持久化
 [FMDB官方使用文档-GCD的使用-提高性能（翻译](http://www.cocoachina.com/industry/20130819/6821.html)
 
@@ -269,6 +272,8 @@
 # MVVM
 [【译】Swift 2.0 下面向协议的MVVM架构实践](http://www.cocoachina.com/swift/20150915/13419.html)
 
+[一篇可能会让你爱上MVVM与ReactiveCocoa的文章 - iOS122 - 博客园](http://www.cnblogs.com/ios122/p/4903308.html)
+
 # 输入框
 [完美主义：实现iOS输入框自动移动](http://www.cocoachina.com/ios/20150922/13521.html)
 
@@ -286,6 +291,12 @@
 
 [高德开发者论坛](http://lbsbbs.amap.com/forum.php?mod=viewthread&tid=733&highlight=%E5%AE%9E%E4%BE%8B)
 [iOS：NSAttributedString - kmyhy的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/kmyhy/article/details/8895638)
+
+[如何将非高德坐标转换为高德坐标系](http://lbsbbs.amap.com/forum.php?mod=viewthread&tid=724&extra=page%3D1)
+
+[使用CoreLocation定位](http://www.oschina.net/question/262659_149771?sort=time)
+
+[关于MKMapView的一些操作小技巧](http://adad184.com/2015/10/23/tips-mapview-tricks/)
 
 # 数据持久化
 [Realm数据库基础教程](http://www.cocoachina.com/ios/20150505/11756.html)
@@ -370,7 +381,10 @@
 
 # 性能优化
 [iOS-Core-Animation之十二----性能调优](http://www.bubuko.com/infodetail-589271.html)
-
+***
+# swift库
+[swift库集合](http://www.ioscookies.com/)
+***
 # helper
 [Android和IOS的浏览器中检测是否安装某个客户端的方法_Android_脚本之家](http://www.jb51.net/article/50574.htm)
 
