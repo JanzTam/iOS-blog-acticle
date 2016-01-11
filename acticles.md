@@ -14,6 +14,7 @@
 
 [Introduction | 通过实现TableView来理解IOS编程](https://yishuiliunian.gitbooks.io/implementate-tableview-to-understand-ios/content/)
 
+[Perfect smooth scrolling in UITableViews - 南峰子的技术博客](http://southpeak.github.io/blog/2015/12/20/perfect-smooth-scrolling-in-uitableviews/)
 # 开发过程中遇到的问题
 [gdataxml解析报错，而且报错还是离谱，请看这个，，， - Java，IOS，Nodejs， HTML5，全栈工程师 - 博客频道 - CSDN.NET](http://blog.csdn.net/yangfanacc/article/details/20640227)
 
@@ -21,6 +22,8 @@
 
 [ios - Completion handler for UINavigationController "pushViewController:animated"? - Stack Overflow](http://stackoverflow.com/questions/9906966/completion-handler-for-uinavigationcontroller-pushviewcontrolleranimated)
 
+[ios - Error: CUICatalog: Invalid asset name supplied: (null), or invalid scale factor : 2.000000 - Stack Overflow](http://stackoverflow.com/questions/22011106/error-cuicatalog-invalid-asset-name-supplied-null-or-invalid-scale-factor)
+***
 # runloop
 [1、RunLoop学习笔记，从CF层面了解由于CFRunLoopMode机制iOS程序ScrollView的滑动为何如此平滑的原因。还有介绍AFNetworking如何单独发起一个global thread内置runloop达到不占用主线程又不耗CPU资源的。](http://www.starming.com/index.php?v=index&view=74)
 
@@ -52,6 +55,9 @@
 [如何轻松实现iOS9多任务管理器效果(iCarousel高级教程) | 里脊串的开发随笔](http://adad184.com/2015/08/01/advanced-icarousel-tutorial-copycat-of-ios9-task-tray/)
 
 [UIDynamics, UIKit or OpenGL? 3 Types of iOS Animations For the Star Wars](https://yalantis.com/blog/uidynamics-uikit-or-opengl-3-types-of-ios-animations-for-the-star-wars/)
+
+[印象笔记交互效果的实现](http://allsome.love/yin-xiang-bi-ji-jiao-hu-xiao-guo-de-shi-xian/?u=2068840121&m=3905419602545533&cu=2068840121&ru=2029464644&rm=3905408588445881)
+***
 # 图文混排
 [1、通过RTLabel、RCLabel、FTCoreText及webView结合SDWebImage等4种方式实现左滑或下拉中cell中图文混排使用场景方案 - Software Architect - 博客频道 - CSDN.NET](http://blog.csdn.net/lgm252008/article/details/39251399)
 
@@ -79,12 +85,7 @@
 [How Do I Declare A Block in Objective-C?](http://fuckingblocksyntax.com/)
 
 [Objective-c中使用Block的风险和解决方法](http://www.starming.com/index.php?v=index&view=65)
-
-# 版本控制
-
-[iSource官方帮助文档](https://code.csdn.net/help/CSDN_Code/progit/zh/01-introduction/01-chapter1)
-
-
+***
 # iOS9
 [iOS9视频学习网站bitfountain](https://www.bitfountain.io/users/me/courses)
 
@@ -106,11 +107,21 @@
 [You must rebuild it with bitcode enabled (Xcodesetting ENABLE_BITCODE)](http://www.bubuko.com/infodetail-1071097.html)
 
 [稀土掘金：在 Xcode 的模拟器上支持 Force Touch 的小插件](http://gold.xitu.io/entry/5610271300b098870f7b52c1)
+
+[iOS9 每日学习第3天：Storyboard References - IOS - 伯乐在线](http://ios.jobbole.com/82790/)
+
+[iOS9之适配ATS - liuchungui's Blog](http://www.liuchungui.com/blog/2015/10/11/ios9zhi-gua-pei-ats/)
 ***
 # React Native
 [一个资深iOS开发者对于React Native的看法 - zhe13 - 博客频道 - CSDN.NET](http://blog.csdn.net/zhe13/article/details/48439967?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 [React 入门实例教程 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2015/03/react.html)
+
+[推荐 11 款 React Native 开源移动 UI 组件 - 开源中国社区](http://www.oschina.net/news/61214/11-react-native-ui-components)
+
+[React拖曳生成代码](http://www.overreact.io/)
+
+[React Native IOS原理简析 | 吕小鸣的前端博客](http://www.nihaoshijie.com.cn/index.php/archives/560#0-tsina-1-65893-397232819ff9a47a7b7e80a40613cfe1)
 
 # 测试
 [[iOS单元测试系列]单元测试框架选型 - IOS - 伯乐在线](http://ios.jobbole.com/81961/)
@@ -126,11 +137,14 @@
 
 [Swift之贪婪的UIButton](http://www.cocoachina.com/swift/20150730/12825.html)
 
-# Xcode
+# Xcode啊
 [ios开发时，在Xcode中添加多个targets进行版本控制 - ysysbaobei的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/ysysbaobei/article/details/10951991)
 
 [Xcode创建子工程以及工程依赖 | 赶驴记](http://www.ganlvji.com/xcode_subproject_project_dependency/)
 
+[Xcode Plugins - NSHipster](http://nshipster.com/xcode-plugins/)
+
+[如何删除xcode项目中不再使用的图片资源 - songhongri的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/songhongri/article/details/21833069)
 # 自动布局
 [如何使用masonry设计复合型cell](http://www.cocoachina.com/cms/wap.php?action=article&id=12105)
 
@@ -149,6 +163,23 @@
 [【投稿】寒哥细谈之AutoLayout全解](http://www.cocoachina.com/ios/20151021/13825.html)
 
 [使用Autolayout实现UITableView的Cell动态布局和高度动态改变 - coding with objc & swift](http://codingobjc.com/blog/2014/10/15/shi-yong-autolayoutshi-xian-uitableviewde-celldong-tai-bu-ju-he-ke-bian-xing-gao/)
+
+[深入剖析Auto Layout，分析iOS各版本新增特性](http://www.starming.com/index.php?v=index&view=84)
+
+[AutoLayout Tip 2：让 AutoLayout 与 UIScrollView 合作无间](https://github.com/nixzhu/dev-blog/blob/master/autolayout-tips.md#tip-2)
+
+[关于 Autolayout 的暖心 tips (一) - Swift中国](http://swiftcn.io/topics/32)
+
+[Auto Layout中的VFL使用教程（译） | One Punch Man](http://mmmmmax.wang/2015/12/11/Auto-Layout-Visual-Format-Language-Tutorial/)
+
+[Auto Layout Guide: Understanding Auto Layout](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/AutolayoutPG/index.html#//apple_ref/doc/uid/TP40010853-CH7-SW1)
+
+[Auto Layout Magic: Content Sizing Priorities — KrakenDev](http://krakendev.io/blog/autolayout-magic-like-harry-potter-but-real)
+
+[孕孕的三个问题之——使用 Auto Layout 之后什么时候才能获得正确的 frame? | Auto Layout Club](https://autolayout.club/2015/11/16/%E5%AD%95%E5%AD%95%E7%9A%84%E4%B8%89%E4%B8%AA%E9%97%AE%E9%A2%98%E4%B9%8B%E2%80%94%E2%80%94%E4%BD%BF%E7%94%A8-Auto-Layout-%E4%B9%8B%E5%90%8E%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E6%89%8D%E8%83%BD%E8%8E%B7%E5%BE%97%E6%AD%A3%E7%A1%AE%E7%9A%84-frame/)
+
+[有了Auto Layout，为什么还怕写UITabelView的自适应布局? - IOS - 伯乐在线](http://ios.jobbole.com/82614/)
+***
 # 持久化
 [FMDB官方使用文档-GCD的使用-提高性能（翻译](http://www.cocoachina.com/industry/20130819/6821.html)
 
@@ -172,6 +203,8 @@
 
 [这样好用的ReactiveCocoa，根本停不下来](http://supermao.cn/zhe-yang-hao-yong-de-reactivecocoagen-ben-ting-bu-xia-lai/)
 
+[细说ReactiveCocoa的冷信号与热信号（二）：为什么要区分冷热信号 - 美团技术团队](http://tech.meituan.com/talk-about-reactivecocoas-cold-signal-and-hot-signal-part-2.html)
+***
 # 多线程
 [iOS系统GCD学习(3):dispatch_group | 阿凡树的博客](http://blog.afantree.com/gcd/ios-gcd-learning-dispatch-group.html)
 
@@ -206,17 +239,24 @@
 [Associated Objects](http://www.cocoachina.com/industry/20140219/7847.html#0-tsina-1-65161-397232819ff9a47a7b7e80a40613cfe1)
 
 [[译]Friday Q&A : 动手实现 objc_msgSend](http://blog.cocoabit.com/dong-shou-shi-xian-objc-msgsend/?f=wb)
-
+***
 #  视频
 [Twitter视频功能设计流程全程剖析](http://www.cocoachina.com/design/20150710/12454.html)
 
 [HTTP Live Streaming直播（iOS直播）技术分析与实现 - haibindev - 博客园](http://www.cnblogs.com/haibindev/archive/2013/01/30/2880764.html)
 
-# Github Organizations
+# Github小组
 [shinobicontrols](https://github.com/shinobicontrols)Native iOS and Android
 
 
 [IFTTT](https://github.com/IFTTT)github知名开源小组
+
+[Yalantis-Github动画小组](https://github.com/Yalantis)
+
+[Sketch插件](http://silverflows.com/)
+
+[objc.io-Github](https://github.com/objcio)
+***
 # Controller
 [研究 UIActivityViewController](http://www.cocoachina.com/industry/20140425/8233.html)
 
@@ -253,6 +293,8 @@
 [CocoaPods的安装和使用 - 余书懿 - 博客频道 - CSDN.NET](http://blog.csdn.net/ysy441088327/article/details/8611731)
 
 [CocoaPods建立私有仓库 - agdsdl的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/agdsdl/article/details/45218987#0-tsina-1-51027-397232819ff9a47a7b7e80a40613cfe1)
+
+[使用 CocoaPods 进行团队协作](http://tips.producter.io/shi-yong-cocoapods-jin-xing-tuan-dui-xie-zuo/)
 ***
 # Apple Watch
 [WWDC15 Session笔记 - 30 分钟开发一个简单的 watchOS 2 app](http://onevcat.com/2015/08/watchos2/)
@@ -264,16 +306,24 @@
 
 [iOS安全系列之一：HTTPS | jaminzzhang](http://oncenote.com/2014/10/21/Security-1-HTTPS/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
-# webView
+[HTTPS详解](http://bugly.qq.com/bbs/forum.php?mod=viewthread&tid=417&fromuid=6)
+# Web
 [自己动手打造基于 WKWebView 的混合开发框架（一）——WKWebView 上手 - 岁寒](http://lvwenhan.com/ios/460.html)
 
 [iOS webView获取html内容_王晓芹_新浪博客](http://blog.sina.com.cn/s/blog_b8e97683010183lz.html)
 
+[Web开发者选择的最佳HTML5/CSS3代码生成器 | 程序员的资料库](http://codecloud.net/css3-code-generators-for-web-programmers-6672.html)
+
+[用JavaScriptCore做android和iOS都兼容的JS-NativeSDK - 月若无涯的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/u010124617/article/details/50053069)
+
+[OpenResty - 一个可伸缩的基于 NGINX 的 Web 平台](http://openresty.org/cn/)
+***
 # MVVM
 [【译】Swift 2.0 下面向协议的MVVM架构实践](http://www.cocoachina.com/swift/20150915/13419.html)
 
 [一篇可能会让你爱上MVVM与ReactiveCocoa的文章 - iOS122 - 博客园](http://www.cnblogs.com/ios122/p/4903308.html)
 
+[MSDN Blogs-MVVM](http://blogs.msdn.com/b/johngossman/archive/2006/03/04/543695.aspx)
 # 输入框
 [完美主义：实现iOS输入框自动移动](http://www.cocoachina.com/ios/20150922/13521.html)
 
@@ -298,6 +348,8 @@
 
 [关于MKMapView的一些操作小技巧](http://adad184.com/2015/10/23/tips-mapview-tricks/)
 
+[MapView方法－设置系统地图的缩放等级](http://blog.sina.com.cn/s/blog_679968680101aic4.html)
+***
 # 数据持久化
 [Realm数据库基础教程](http://www.cocoachina.com/ios/20150505/11756.html)
 
@@ -336,6 +388,7 @@
 
 [查看手机DB-callmewhy/PleaseBaoMe](https://github.com/callmewhy/PleaseBaoMe)
 
+[Reveal常用技巧 | Reveal](http://revealapp.com/blog/reveal-common-tips-cn.html)
 # 屏幕旋转
 [如何用代码控制以不同屏幕方向打开新页面【iOS】 - 岁寒](http://lvwenhan.com/ios/458.html)
 
@@ -352,10 +405,14 @@
 # 日期
 [NSDate , NSDateComponents , NSDateFormatter, NSCalendar_wzyfly_新浪博客](http://blog.sina.com.cn/s/blog_859ab336010185ap.html)
 
+[iOS 系统时间格式区别 - 期待、 - 博客园](http://www.cnblogs.com/simple-life-no1/p/4192311.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
 # NSString
 [一文让你彻底了解iOS字体相关知识 - 董铂然 - 博客园](http://www.cnblogs.com/dsxniubility/p/4699352.html)
 
 [iOS UITextView UILabel 显示 HTML内容 | 阿凡树的博客](http://blog.afantree.com/ios/ios-uitextview-uilabel-to-display-html-content.html#comment-1365)
+
+[Tips:使用Xcode查找项目中的中文字符串 | 里脊串的开发随笔](http://adad184.com/2015/10/09/tips-search-chinese-string/)
 # 风格指南
 [RayWenderlich 官方 Swift 风格指南 | SwiftGG 翻译组 - 高质量的 Swift 译文网站](http://swift.gg/2015/08/11/raywenderlich-swift-style-guide/)
 
@@ -379,11 +436,48 @@
 # 滤镜
 [TuSDK 涂图](http://tusdk.com/)滤镜第三方SDK
 
+# 相机
+[iOS使用AVCaptureSession自定义相机](http://blog.csdn.net/wrathli/article/details/39431287)
+
+[iOS 上的相机捕捉](http://objccn.io/issue-21-3/)
+# 弹幕
+[chenqihui/QHDanumuDemo](https://github.com/chenqihui/QHDanumuDemo)
+
+# XMPP
+[iOS 使用xmpp做聊天客户端 - ElonZung的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/zb021141/article/details/46548869#0-tsina-1-82726-397232819ff9a47a7b7e80a40613cfe1)
+
 # 性能优化
 [iOS-Core-Animation之十二----性能调优](http://www.bubuko.com/infodetail-589271.html)
+
+[移动端图片格式调研 | Garan no dou](http://blog.ibireme.com/2015/11/02/mobile_image_benchmark/)
+
+[iOS 保持界面流畅的技巧 | Garan no dou](http://blog.ibireme.com/2015/11/12/smooth_user_interfaces_for_ios/)
+
+[iOS 图片压缩](http://blog.csdn.net/apple_app/article/details/38847357)
+
+[内存恶鬼drawRect（续:答疑篇） | Hongbo Bi’s Blog](http://bihongbo.com/2016/01/11/memoryGhostMore/)
 ***
-# swift库
-[swift库集合](http://www.ioscookies.com/)
+
+# 抓包
+[模拟器中使用 Charls](http://stackoverflow.com/questions/25439756/how-to-use-charles-proxy-on-the-xcode-6-ios-8-simulator)
+
+# 内购
+[iOS应用内付费(IAP)开发步骤列表 - 51CTO.COM](http://mobile.51cto.com/iphone-389249.htm)
+
+[In-App Purchase for Developers - Apple Developer](https://developer.apple.com/in-app-purchase/)
+
+# APP之间数据传输
+[iOS利用UIDocumentInteractionController和Quick Look打开或预览文档_IOS教程 | 帮客之家](http://www.bkjia.com/IOSjc/1005543.html)
+
+# 唯一标示符
+[iOS的UDID废用以及UUID配合keychain的替换方案实现 | K-Res的Blog](http://blog.k-res.net/archives/1081.html)
+
+[IOS KeyChain - whj的个人空间 - 开源中国社区](http://my.oschina.net/w11h22j33/blog/206713)
+
+# CodeReview
+[iOS Code Review: Loose Guidelines](https://robots.thoughtbot.com/ios-code-review-guidlines)
+
+[稀土掘金：Code Review 最佳实践](http://gold.xitu.io/entry/568a35ab60b2b60f65fb5d2e)
 ***
 # helper
 [Android和IOS的浏览器中检测是否安装某个客户端的方法_Android_脚本之家](http://www.jb51.net/article/50574.htm)
@@ -413,14 +507,13 @@
 
 [UIAppearance-Ray Wenderlich](http://www.raywenderlich.com/108766/uiappearance-tutorial)
 
-[抛砖引玉，QC+Origami 动效设计脱盲篇](http://www.cocoachina.com/design/20150923/13547.html)
-
 [iOS开发之应用内检测手机锁屏，解锁状态 - 奔放小青年 - 博客园](http://www.cnblogs.com/daguo/p/4171389.html)
 
 [自己动手构建表单验证功能【iOS】 - 岁寒](http://lvwenhan.com/ios/459.html)
 
 [如何快速在手机中查看UDID，无需itunes、itools - iPhone 5s 综合讨论区 - 威锋论坛 - 威锋网](http://bbs.feng.com/read-htm-tid-8001342.html)
 
+[加快XCode的编译链接速度（200%+）—XCode编译速度慢的解决方案 - 心砚THU的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/zhaoxy_thu/article/details/30073485?utm_source=tuicool&utm_medium=referral)
 ***
 # 其他资源、网站
 [iOS技术周报](http://weekly.ios-wiki.com/issues/67#rd?sukey=fc78a68049a14bb2134f1054104f27692001c0a300c39d5b268674ab5d1e6fcffe41c83d75cf91c881513e7814917cb2)
@@ -433,11 +526,10 @@
 
 [iOSRE](http://bbs.iosre.com/)
 
-[独立开发者的福音：开发工具大全 - CocoaChina 苹果开发中文站 - 最热的iPhone开发社区 最热的苹果开发社区 最热的iPad开发社区](http://www.cocoachina.com/game/20150805/12901.html)
+[独立开发者的福音：开发工具大全](http://www.cocoachina.com/game/20150805/12901.html)
 
 [高效 MacBook 工作环境配置 - 博客 - 伯乐在线](http://blog.jobbole.com/89013/)
 
-[如何删除xcode项目中不再使用的图片资源 - songhongri的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/songhongri/article/details/21833069)
 
 [源码推荐(8.10)：iOS 大文件断点下载库，仿微信发布语音](http://www.cocoachina.com/ios/20150810/12922.html#0-tsina-1-63173-397232819ff9a47a7b7e80a40613cfe1)
 
@@ -449,7 +541,7 @@
 
 [提高iOS开发效率的方法和工具 – 流水年华°](http://yyny.me/ios/%E6%8F%90%E9%AB%98iOS%E5%BC%80%E5%8F%91%E6%95%88%E7%8E%87%E7%9A%84%E6%96%B9%E6%B3%95%E5%92%8C%E5%B7%A5%E5%85%B7/)
 
-[个人常用iOS第三方库以及XCode插件介绍 - CocoaChina 苹果开发中文站 - 最热的iPhone开发社区 最热的苹果开发社区 最热的iPad开发社区](http://www.cocoachina.com/ios/20150710/12503.html)
+[个人常用iOS第三方库以及XCode插件介绍](http://www.cocoachina.com/ios/20150710/12503.html)
 
 [GitHub 上都有哪些值得关注学习的 iOS 开源项目？ - 青峰专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/kepoon/article/details/39695729)
 
@@ -458,3 +550,29 @@
 [公司用到的一些 iOS 开源库和第三方组件 - 简书](http://www.jianshu.com/p/207a3879c41f)
 
 [iOS及Mac开源项目和学习资料【超级全面】 | 程序员的资料库](http://codecloud.net/ios-mac-study-5155.html)
+
+[GameplayKit 编程指南](https://gameplaykit-programming-guide-chinese.readme.io/)
+
+[关于 @synchronized，这儿比你想知道的还要多 | yulingtianxia's blog](http://yulingtianxia.com/blog/2015/11/01/More-than-you-want-to-know-about-synchronized/)
+
+[腾讯力作！超实用的iOS 9人机界面指南（1）：UI设计基础](http://www.uisdc.com/ios9-interface-guideline-ui)
+
+[基础集合类](http://www.cocoachina.com/industry/20140122/7735.html)
+
+[Top 100 Best Blogs for iOS Developers to Learn and Gain Insights](http://www.softwarehow.com/best-blogs-for-ios-developers/)
+
+[iOS可持续化集成: Jenkins + bundler + cocoapods + shenzhen + fastlane + pgyer ](http://blog.csdn.net/colorapp/article/details/47007329)
+
+[2015网易新闻iOS版使用的开源组件](http://m.163.com/special/newsclient/ios_libraries.html)
+
+[iOS事件分发机制（一） hit-Testing](http://suenblog.duapp.com/blog/100031/iOS%E4%BA%8B%E4%BB%B6%E5%88%86%E5%8F%91%E6%9C%BA%E5%88%B6%EF%BC%88%E4%B8%80%EF%BC%89%20hit-Testing)
+
+[iOS 开发 OpenGL 新手入门 ](http://www.cocoachina.com/ios/20151123/14116.html)
+
+[iOS开发之显示微博表情 - IOS - 伯乐在线](http://ios.jobbole.com/83316/)
+
+[『干货』分享你最喜欢的技巧和提示(Xcode,objective-c,swift,c...等等) - Coffee pig - 博客频道 - CSDN.NET](http://blog.csdn.net/biggercoffee/article/details/50394027)
+
+[Mac OS X Terminal 101：终端使用初级教程 - Blog - Renfei Song](https://www.renfei.org/blog/mac-os-x-terminal-101.html)
+
+[类似IG-ParsePlatform/Anypic](https://github.com/ParsePlatform/Anypic)

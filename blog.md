@@ -166,3 +166,9 @@
 [watchOS 2 | 破船之家](http://beyondvincent.com/2015/10/16/2015-10-16-watchkit-for-watchos-2/)
 
 [Github repos (iOS)](http://github.ibireme.com/github/list/ios/#)
+
+[Daizi博客](http://daizi.me/)
+
+[GameplayKit 编程指南](https://gameplaykit-programming-guide-chinese.readme.io/)
+
+[Backspace Prologue: Mistakes and learnings of an iPhone developer](http://troybrant.net/blog/)

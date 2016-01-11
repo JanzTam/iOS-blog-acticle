@@ -37,7 +37,7 @@ such as tools for ios
 
 [github工具Integrations Directory](https://github.com/integrations)
 ***
-# UI
+# UI&UX
 [腾讯设计师的私人笔记！帮你全方位掌握英文字体基础](http://www.uisdc.com/english-fonts-design-foundation)
 
 [UX Project Checklist](http://uxchecklist.github.io/)
@@ -54,6 +54,17 @@ such as tools for ios
 [ios & Android icon generator -- Generate all icon for your Titanium app from just 1 1024 image!](http://devhelpers.com/app/icon/resizer/)
 
 [一个不落！IOS 8+9 UI KIT+6S、6S plus展示模型免费打包下载](http://www.uisdc.com/ios-9-iphone-6s-uikit?url_type=39&object_type=webpage&pos=1)
+
+[PaintCode 用户操作指南（绘制篇） | 人人都是产品经理](http://www.woshipm.com/ucd/158982.html)
+
+[抛砖引玉，QC+Origami 动效设计脱盲篇](http://www.cocoachina.com/design/20150923/13547.html)
+
+[动画教程Motion Design for iOS](https://dn-motion-design.qbox.me/)
+
+### Sketch
+[SketchActive](http://aegeank.com/sketchactive/)
+
+[All Free .sketch downloads and resources - Sketch Freebie - Free Sketch files for Sketch 3 - Sketch App Sources](http://www.sketchappsources.com/all-free-sources.html)
 ***
 # 编译器
 [使用AppCode的9条理由 - CocoaChina 苹果开发中文站 - 最热的iPhone开发社区 最热的苹果开发社区 最热的iPad开发社区](http://www.cocoachina.com/ios/20141031/10070.html)
@@ -64,6 +75,12 @@ such as tools for ios
 [Git服务器搭建全过程](http://mp.weixin.qq.com/s?__biz=MjM5OTMxMzA4NQ==&mid=216463848&idx=2&sn=6f36e60705df1e16d21139e5d395ed60)
 
 [Git指令大全图](http://www.colorfulcat.xyz/2015/09/06/git-command/)
+
+[Github教程](http://jlord.us/git-it/index-zhtw.html)
+
+[Users Ranking - GitHub Ranking](http://githubranking.com/users)
+
+[iSource官方帮助文档](https://code.csdn.net/help/CSDN_Code/progit/zh/01-introduction/01-chapter1)
 ***
 # 网络
 [四种常见的 POST 提交数据方式 | JerryQu 的小站](https://www.imququ.com/post/four-ways-to-post-data-in-http.html)
@@ -72,6 +89,15 @@ such as tools for ios
 
 [Mac下搭建svn服务器和XCode配置svn - jjunjoe的专栏 - 博客频道 - CSDN.NET](http://blog.csdn.net/jjunjoe/article/details/8500996)
 ***
+
+# FanQiang
+[Surge 新手使用指南 — Medium](https://medium.com/@scomper/surge-%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6-a1533c10e80b#.hma5x1v1w)
+
+[Surge 原理与实现 — Medium](https://medium.com/@Blankwonder/surge-%E5%8E%9F%E7%90%86%E4%B8%8E%E5%AE%9E%E7%8E%B0-8aa3304fb3bb#.zdplgiyzo)
+
+[shadowsocks搭建教程: 【倾力原创】史上最详尽Shadowsocks从零开始一站式翻墙教程](http://shadowsocks.blogspot.jp/2015/01/shadowsocks.html)
+
+[surge神器+ss傻瓜配置指南 - iPhone 6s 综合讨论区 - 威锋论坛 - 威锋网](http://bbs.feng.com/forum.php?mod=viewthread&page=1&tid=10015511)
 # other
 [iOS9降级教程 降级到iOS8图文教程 - iPhone中文网](http://iphone.tgbus.com/tutorial/use/201506/20150609140938.shtml)
 
@@ -91,3 +117,10 @@ such as tools for ios
 
 [为什么你应该深入Github - 手工艺人 | Phodal 全栈工程师](http://www.phodal.com/blog/why-you-should-work-hard-with-github/)
 
+[Mac特殊符号怎么打？苹果Mac特殊符号快捷键输入方法汇总_苹果MAC_操作系统_脚本之家](http://www.jb51.net/os/MAC/264529.html)
+
+[拆修系列【iPhone 5】修修补补，你的手机或许还能再战三年。 - ZEALER 社区](http://plus.zealer.com/post/5194)
+
+[All IT eBooks - Free IT eBooks Download](http://www.allitebooks.com/)
+
+[utom大招-免费使用TinyPNG批量压缩PNG图片](http://mp.weixin.qq.com/s?__biz=MzA4MzI0MTkxOQ==&mid=400480118&idx=1&sn=b89ba0ff5f99486d2a9c5f024b123d00#rd)
