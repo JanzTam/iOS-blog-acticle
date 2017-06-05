@@ -402,6 +402,10 @@
 
 [【投稿】iOS 9之适配ATS](http://www.cocoachina.com/ios/20151021/13722.html)
 
+[iOS App 签名的原理](http://blog.cnbang.net/tech/3386/)
+
+[写给 iOS 开发者看的 HTTPS 指南](https://autolayout.club/2016/12/22/%E5%86%99%E7%BB%99-iOS-%E5%BC%80%E5%8F%91%E8%80%85%E7%9C%8B%E7%9A%84-HTTPS-%E6%8C%87%E5%8D%97/)
+
 # 日期
 [NSDate , NSDateComponents , NSDateFormatter, NSCalendar_wzyfly_新浪博客](http://blog.sina.com.cn/s/blog_859ab336010185ap.html)
 
