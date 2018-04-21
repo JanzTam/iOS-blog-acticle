@@ -10,5 +10,5 @@ Mark down iOS blog and acticle
 一些iOS文章、学习教程
 
 # other resources
-[iOS-helper](https://github.com/JanzTam/iOS-blog-acticle/blob/master/other resources.md)
+[iOS-helper](https://github.com/JanzTam/iOS-blog-acticle/blob/master/other%20resources.md)
 其他帮助iOS的学习资源、工具
